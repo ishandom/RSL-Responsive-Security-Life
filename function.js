@@ -17,7 +17,7 @@ a.addEventListener("click", (event)=>{
     oii.style.backgroundColor = "#8854f7"
     quemsomosmodifier.style.backgroundColor = "#040322"
     quemsomosmodifier.style.color = "white"
-    quemsomosmodifier.innerText = "A RSL é uma empresa de segurança especialista na proteção da integridade material e eventual, onde nosso principal objetivo é oferecer segurança, fornecendo métodos capazes de proteger sua casa ou residência de certas ameaças"
+    quemsomosmodifier.innerText = "A RSL é uma empresa de segurança ultramente especialista na proteção da integridade material e eventual, onde nosso principal objetivo é oferecer segurança, fornecendo métodos capazes de proteger sua casa ou residência de certas ameaças"
 })
 
 contato.addEventListener("click", (event)=>{
